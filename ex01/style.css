@@ -4,8 +4,9 @@
     gap: 10px;
     grid-template-areas: 
         "header header header header"
-        "menu menu content content" 
-        "footer footer footer ad"
+        "menu content content content" 
+        "ad content content content"
+        "footer footer footer footer"
         
     
     ;
