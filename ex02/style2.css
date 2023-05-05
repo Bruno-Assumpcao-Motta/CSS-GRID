@@ -38,10 +38,11 @@ footer {
 @media (max-width: 750px) {
     .container {
         grid-template-areas: 
-            "header header header menu"
-            "content content content content"
-            "ad ad ad ad"
-            "footer footer footer footer"
+            "header"
+            "menu"
+            "content"
+            "ad"
+            "footer"
         
         
         
